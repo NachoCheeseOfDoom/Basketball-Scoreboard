@@ -1,0 +1,100 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #1B244A;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #1B244A;
+  color: white;
+  text-align: center;
+}
+
+.divHome{
+    width: 149px;
+    height: 36px;
+    left: 85px;
+    top: 68px;
+  
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+  
+    text-align: center;
+  
+    color: #EEEEEE;
+}
+.divGuest{
+  width: 149px;
+  height: 36px;
+  left: 85px;
+  top: 68px;
+
+  font-family: 'Verdana';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 36px;
+  /* identical to box height, or 90% */
+
+  text-align: center;
+
+  color: #EEEEEE;
+}
+
+.home-points-text{
+    left: 355px;
+    top: 125px;
+    bottom: 120px;
+  
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    /* or 141% */
+  
+    text-align: center;
+  
+    color: #F94F6D;
+}
+
+.backround{
+    width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    bottom: 120px;
+  
+    background: #080001;
+    border-radius: 5px;
+}
+
+.add-points-btns-home{
+  width: 155px;
+  height: 55px;
+  left: 337px;
+  top: 271px;
+}
+
+button{
+  background-color: transparent;
+  box-sizing: border-box;
+width: 40px;
+height: 40px;
+left: 337px;
+top: 21px;
+border: 2px solid #9AABD8;
+border-radius: 5px;
+color: #9AABD8;
+cursor: pointer;
+}
+
+.btnReset{
+width: 70px;
+}
+
